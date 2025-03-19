@@ -1,0 +1,14 @@
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\bin\Debug\net9.0\xor.exe
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\bin\Debug\net9.0\xor.deps.json
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\bin\Debug\net9.0\xor.runtimeconfig.json
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\bin\Debug\net9.0\xor.dll
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\bin\Debug\net9.0\xor.pdb
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.AssemblyInfoInputs.cache
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.AssemblyInfo.cs
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.csproj.CoreCompileInputs.cache
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.dll
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\refint\xor.dll
+c:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.pdb
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\xor.genruntimeconfig.cache
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\xor\obj\Debug\net9.0\ref\xor.dll

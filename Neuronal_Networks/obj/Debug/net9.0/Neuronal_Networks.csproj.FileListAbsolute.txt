@@ -1,0 +1,14 @@
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\bin\Debug\net9.0\Neuronal_Networks.exe
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\bin\Debug\net9.0\Neuronal_Networks.deps.json
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\bin\Debug\net9.0\Neuronal_Networks.runtimeconfig.json
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\bin\Debug\net9.0\Neuronal_Networks.dll
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\bin\Debug\net9.0\Neuronal_Networks.pdb
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.AssemblyInfoInputs.cache
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.AssemblyInfo.cs
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.csproj.CoreCompileInputs.cache
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.dll
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\refint\Neuronal_Networks.dll
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.pdb
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\Neuronal_Networks.genruntimeconfig.cache
+C:\Users\lisaj\OneDrive\Documents\Séptimo Semestre\Inteligencia Artificial\Neuronal_Networks\obj\Debug\net9.0\ref\Neuronal_Networks.dll

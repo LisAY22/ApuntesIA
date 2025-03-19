@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Neuronal_Networks/1.0.0": {
+        "runtime": {
+          "Neuronal_Networks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neuronal_Networks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
